@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/800pc_10_full1.jpg
 title: Building a desktop PC
 permalink: projects/desktopbuild
 date: 2016
