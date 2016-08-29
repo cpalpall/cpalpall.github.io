@@ -15,6 +15,3 @@ One of the primary, and often times most difficult, requirements in order to rec
 For this project, I was tasked with preparing 50+ bentos to the homeless living in Pearl City and giving them out to them at the Neal Blaisdell Park.  In order to accrue funds for the supplies, I requested donations from family, friends, my fellow scouts and other organizations such as churches and hospitals.  Approximately $2,000 in donations were received to fund the project.  
 
 The project was held at Kahikuonalani Church, the sponsor of my Boy Scout Troop. I tasked some scouts with cooking meats such as chicken and hotdogs, while others put the food into the bento boxes in an assembly line.  After the bentos were completed, me and several members of the church drove to Neal Blaisdell Park to deliver the bentos.
-
-
-
