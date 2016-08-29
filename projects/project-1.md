@@ -5,7 +5,7 @@ image: images/BSAlogo.jpg
 title: Eagle Scout Project
 permalink: projects/EagleProject
 date: 2009 - 2010
-summary: "While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community. (The project should benefit an organization other than Boy Scouting.) The project plan must be approved by the organization benefiting from the effort, your Scoutmaster and troop committee, and the council or district before you start." - Boy Scouts Requirements
+summary: "While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community." - Boy Scouts Requirements
 ---
 
 The Eagle Scout is the highest obtainable rank in the Boy Scouts of America (BSA).  Approximately only 4% of Boy Scouts actually reach this rank and it is held in high regard by many peers. Some famous Eagle Scouts include: the first man on the moon Neil Armstrong, former US President Gerald Ford, Sam Walton the founder of Wal Mart and Sams Club and television star Mike Rowe.
