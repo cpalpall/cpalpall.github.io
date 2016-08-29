@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/BSAlogo.jpg
 title: Eagle Scout Project
-permalink: projects/eagleProject
+permalink: projects/eagleproject
 date: 2009
 summary: "While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community." - Boy Scouts Requirements
 ---
