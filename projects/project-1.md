@@ -1,29 +1,20 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
-labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+image: images/BSAlogo.jpg
+title: Eagle Scout Project
+permalink: projects/EagleProject
+date: 2009 - 2010
+summary: "While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community. (The project should benefit an organization other than Boy Scouting.) The project plan must be approved by the organization benefiting from the effort, your Scoutmaster and troop committee, and the council or district before you start." - Boy Scouts Requirements
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+The Eagle Scout is the highest obtainable rank in the Boy Scouts of America (BSA).  Approximately only 4% of Boy Scouts actually reach this rank and it is held in high regard by many peers. Some famous Eagle Scouts include: the first man on the moon Neil Armstrong, former US President Gerald Ford, Sam Walton the founder of Wal Mart and Sams Club and television star Mike Rowe.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+One of the primary, and often times most difficult, requirements in order to receive this rank is to do an Eagle Project.  An Eagle Project is a community service project that produces a positive outcome in the scout's community.  Planning and leading is to be done by the Eagle Scout candidate himself.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was tasked with preparing 50+ bentos to the homeless living in Pearl City and giving them out to them at the Neal Blaisdell Park.  In order to accrue funds for the supplies, I requested donations from family, friends, my fellow scouts and other organizations such as churches and hospitals.  Approximately $2,000 in donations were received to fund the project.  
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+The project was held at Kahikuonalani Church, the sponsor of my Boy Scout Troop. I tasked some scouts with cooking meats such as chicken and hotdogs, while others put the food into the bento boxes in an assembly line.  After the bentos were completed, me and several members of the church drove to Neal Blaisdell Park to deliver the bentos.
 
 
 
