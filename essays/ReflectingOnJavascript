@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+title: Javascript and me
+date: 2016-08-31
+labels:
+  - Software Engineering
+  - Learning
+  - Reflections
+  - Javascript
+---
+
+After approximately two weeks of working with Javascript, I have found it very similar to Java, as the name would imply.  The fundamental basics appeared the same at first. But as I delved deeper I found that Javascript has many more details one can apply, such as the ability to put quotes within quotes in a string and Augmented Mathematics.  In short, I feel like it combines the simplicity of Java with the more sophisticated features that C/C++ has without the complications that come with them.
+
+ The lessons provided from freecodecamp were easy to understand and fun to do.  It didn't feel like homework when I was doing them. There were even some moments in my free time when I was gaming with friends, that I would tab out into freecodecamp to complete one of the modules.
+
+As for athletic software engineering, I enjoy the idea of it. It keeps us focused on trying to make the best programs in the quickest amount of time.  It gives us a clear goal and strive to improve.  When doing the practice WODs by myself, I was surprised how in about half an hour, the amount of time it took for me to write a program was literally cut in half.  This was only for the practice though.  I feel that the actual WODs will be a little more stressful, but this will only allow us to get better at programing while also getting us prepared for an actual work environment.
