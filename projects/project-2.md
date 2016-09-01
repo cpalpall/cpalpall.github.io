@@ -12,4 +12,4 @@ For an ICS major, the computer is where the magic happens.  But chances are more
 
 One of my personal goals while being an ICS major is to be able to build my own computer, both for personal and professional.  I wish to learn about the different parts of my computer and how each of them work in unison to make a computer run.  
 
-Currently my planned build is the following: (http://pcpartpicker.com/list/7rDK3F).
+My currently planned build can be seen in the following link: http://pcpartpicker.com/list/7rDK3F.
