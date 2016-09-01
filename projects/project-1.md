@@ -5,6 +5,9 @@ image: images/BSAlogo.jpg
 title: Eagle Scout Project
 permalink: projects/eagleproject
 date: 2010
+labels: 
+  -Leadership
+  -Community Service
 summary: "While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community." - Boy Scouts Requirements
 ---
 
