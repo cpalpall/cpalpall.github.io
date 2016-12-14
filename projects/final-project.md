@@ -12,6 +12,6 @@ labels:
 summary: A study group planning web app project for ICS 314
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Manoa Dojo Logo.png">
+<img class="ui image" src="/images/manoa-dojo-header.png">
 
 Manoa Dojo is a group project created in collaborations with [Ryan Barsatan](https://ryanbars.github.io/), [Xen Huang](https://xenhuang.github.io/), [Stephen Mau](https://smau4.github.io/), and myself.
